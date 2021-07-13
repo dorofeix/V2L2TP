@@ -1,0 +1,9 @@
+{
+    "protocol": "freedom",
+    "settings": {},
+    "streamSettings": {
+        "sockopt": {
+            "mark": 255
+        }
+    }
+}

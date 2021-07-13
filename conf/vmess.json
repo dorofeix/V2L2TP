@@ -1,0 +1,25 @@
+{
+    "protocol": "vmess",
+    "settings": {
+        "vnext": [
+            {
+                "address": "***.***.***.***",
+                "port": 123,
+                "users": [
+                    {
+                        "id": "******",
+                        "alterId": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "streamSettings": {
+        "sockopt": {
+            "mark": 255
+        }
+    },
+    "mux": {
+        "enabled": true
+    }
+}
