@@ -1,5 +1,7 @@
 # V2L2TP
 
+[https://dorofeix.github.io/post.html#?id=40099616](https://dorofeix.github.io/post.html#?id=40099616)
+
 ## 用途
 
 * 在Docker容器上搭建一个L2TP服务器
@@ -58,7 +60,7 @@ $ ./use_vmess.py
 * `/Dockerfile` 用于生成Docker镜像
 * `/install.sh` 安装脚本
 * `/README.md` 说明文件
-* `/restart-v2ray.sh` 重启v2ray进程，重载入配置文件
+* `/restart-v2ray.sh` 重启V2Ray进程，重载入配置文件
 * `/restart.sh` 重启容器
 * `/start.sh` 从停止状态启动容器
 * `/stop.sh` 停止容器
